@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="COMBINING">
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="JOINS">
   <Items>
     <LogicalFolder Name="Connections" Type="2" Sorted="true">
       <Items>
         <ConnectionNode Name="DESKTOP-7N89JHM\SQLEXPRESS:DESKTOP-7N89JHM\Pulkit">
-          <Created>2019-06-07T01:07:01.5224844-04:00</Created>
+          <Created>2019-06-07T19:21:30.989883-04:00</Created>
           <Type>SQL</Type>
           <Server>DESKTOP-7N89JHM\SQLEXPRESS</Server>
           <UserName />
@@ -19,17 +19,11 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
-        <FileNode Name="exceptIntersect.sql">
+        <FileNode Name="joins.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-7N89JHM\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-7N89JHM\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>exceptIntersect.sql</FullPath>
-        </FileNode>
-        <FileNode Name="UNION.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-7N89JHM\SQLEXPRESS:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>DESKTOP-7N89JHM\SQLEXPRESS</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>UNION.sql</FullPath>
+          <FullPath>joins.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
