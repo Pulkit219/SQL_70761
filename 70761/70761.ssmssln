@@ -11,6 +11,10 @@ Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "COMBINING", "COMBINING\COMB
 EndProject
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "JOINS", "JOINS\JOINS.ssmssqlproj", "{EE15F487-1BCB-426C-9BC6-4AA4A3C39D1B}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "BUILTIN FUNCTIONS", "BUILTIN FUNCTIONS\BUILTIN FUNCTIONS.ssmssqlproj", "{E1FC0F12-B6B8-4843-AB19-D5E53DADCA66}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "GROUPBYaGGREGATE", "GROUPBYaGGREGATE\GROUPBYaGGREGATE.ssmssqlproj", "{DB434FC4-97EF-40B1-A944-8C382799F133}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
@@ -21,6 +25,8 @@ Global
 		{B805139C-9AF9-4767-9F39-97FA8AC70D43}.Default|Default.ActiveCfg = Default
 		{EE15F487-1BCB-426C-9BC6-4AA4A3C39D1B}.Default|Default.ActiveCfg = Default
 		{983E2C98-5E94-4C9C-887A-966AC59B5022}.Default|Default.ActiveCfg = Default
+		{E1FC0F12-B6B8-4843-AB19-D5E53DADCA66}.Default|Default.ActiveCfg = Default
+		{DB434FC4-97EF-40B1-A944-8C382799F133}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
