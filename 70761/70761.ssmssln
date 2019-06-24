@@ -15,6 +15,8 @@ Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "BUILTIN FUNCTIONS", "BUILTI
 EndProject
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "GROUPBYaGGREGATE", "GROUPBYaGGREGATE\GROUPBYaGGREGATE.ssmssqlproj", "{DB434FC4-97EF-40B1-A944-8C382799F133}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DML", "DML\DML.ssmssqlproj", "{3F9C226C-821B-4829-9B1D-4B1063B9D8C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
@@ -24,9 +26,10 @@ Global
 		{CC605FCB-9947-424B-8B31-719ECCD51165}.Default|Default.ActiveCfg = Default
 		{B805139C-9AF9-4767-9F39-97FA8AC70D43}.Default|Default.ActiveCfg = Default
 		{EE15F487-1BCB-426C-9BC6-4AA4A3C39D1B}.Default|Default.ActiveCfg = Default
-		{983E2C98-5E94-4C9C-887A-966AC59B5022}.Default|Default.ActiveCfg = Default
 		{E1FC0F12-B6B8-4843-AB19-D5E53DADCA66}.Default|Default.ActiveCfg = Default
 		{DB434FC4-97EF-40B1-A944-8C382799F133}.Default|Default.ActiveCfg = Default
+		{95E7BDA8-F8CB-4521-8057-F1F6B45018D1}.Default|Default.ActiveCfg = Default
+		{3F9C226C-821B-4829-9B1D-4B1063B9D8C7}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
