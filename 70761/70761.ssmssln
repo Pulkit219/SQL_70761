@@ -25,6 +25,8 @@ Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "PIVOT and RANKING", "PIVOT 
 EndProject
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "XML", "XML\XML.ssmssqlproj", "{DBDBF8B3-6D40-4522-8A5A-ECBC23450283}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Tsql", "Tsql\Tsql.ssmssqlproj", "{7C778DD0-9DB7-4C03-A8CD-6B4479DBD285}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
@@ -40,8 +42,9 @@ Global
 		{9F159D2F-2C06-48C2-8E0E-13F30C91DBDD}.Default|Default.ActiveCfg = Default
 		{0BA1EF98-6554-4336-BC9A-5FF3C56D6969}.Default|Default.ActiveCfg = Default
 		{11635B79-C6D4-43A4-817C-B10F3990039F}.Default|Default.ActiveCfg = Default
-		{4FAD972D-6CD3-4350-AB9F-9035A5C61C2F}.Default|Default.ActiveCfg = Default
 		{DBDBF8B3-6D40-4522-8A5A-ECBC23450283}.Default|Default.ActiveCfg = Default
+		{FEC56A30-6217-4224-8680-F9246E4C0200}.Default|Default.ActiveCfg = Default
+		{7C778DD0-9DB7-4C03-A8CD-6B4479DBD285}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
